@@ -1,2 +1,2 @@
 # ubicacion_de_gasolineras
-Consumiendo una API REST que muestra un mapa geografico con la Ubicación de gasolineras segun dirección ingresada.
+Mostrar la unbicación de gasolineras en un mapa, segun la direccion ingresada, Consumiendo la API REST LEAFLETJS 
